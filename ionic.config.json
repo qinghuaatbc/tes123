@@ -1,0 +1,7 @@
+{
+  "name": "tes123",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
